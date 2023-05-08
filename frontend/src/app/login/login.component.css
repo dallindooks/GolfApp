@@ -1,0 +1,9 @@
+.login-card-container {
+  margin: 5rem;
+  justify-content: center;
+}
+
+.login-card {
+  padding: 50px;
+  text-align: center;
+}
